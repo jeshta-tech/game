@@ -1,0 +1,7 @@
+{
+	"name": "Fairy Escape",
+	"private": true,
+	"dependencies": {
+		"cordova-android": "9.0.0"
+	}
+}
